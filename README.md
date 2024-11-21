@@ -1,2 +1,0 @@
-# openvas
-Vulnerability scanner
